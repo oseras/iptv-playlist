@@ -1,4 +1,4 @@
-# 📺 IPTV Playlist
+# 📺 Sulama Kanal Projesi
 
 Test edilmiş ve çalışan **37,839 Su kanalı**.
 
