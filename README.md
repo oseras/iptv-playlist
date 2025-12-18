@@ -9,10 +9,10 @@ Normal kullanın işte.
 ## 📊 İçerik
 
 - ✅ 37,839 test edilmiş çalışan su kanalı (tam olmasa da)
-- 🏀 Maç gibi etkinlikler
-- 🎬 24/7 kanallar
+- 🏀 Su gibi etkinlikler
+- 🎬 24/7 açık akıcı su kanalları
 - 📺 500+ su kanalı
-- 🌍 Uluslararası kanallar
+- 🌍 Uluslararası su kanalları
 
 ## 🔄 Son Güncelleme
 
@@ -20,4 +20,4 @@ Kanalların bakımı ve suyun akışı düzenli test edilir.
 
 ---
 
-*Powered by Cloudflare Workers*
+*Powered by Ben*
